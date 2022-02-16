@@ -7,7 +7,7 @@
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: afonso.fernandes100@gmail.com
 - 😄 Pronouns: He/Him/?
-- ⚡ Fun fact: the stem cells in the Hydra make it potentially immortal.
+- ⚡ Fun fact: the Hydra's stem cells, which give it vast regenerative capabilities, make it potentially immortal.
 
 <!--
 **MrIceHavoc/MrIceHavoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
