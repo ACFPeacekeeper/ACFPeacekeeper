@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my masters degree in Computer Science & Engineering, specializing in AI and Cybersecurity.
-- 🌱 I’m currently learning Game Development Methodology, Databases and Autonomous Agents and Multi-Agent Systems
+- 🌱 I’m currently learning Game Development Methodology, Databases and Security and Management of Information Systems
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about AI related subjects.
