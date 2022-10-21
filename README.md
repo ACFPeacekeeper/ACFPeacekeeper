@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my masters degree in Computer Science & Engineering, specializing in AI and Cybersecurity.
-- 🌱 I’m currently learning Game Development Methodology, Databases and Security and Management of Information Systems
+- 🔭 I’m currently working on my research about using Multimodal Generative Models to Detect and Mitigate Adversarial Perceptual Attack against Reinforcement Learning Agents
+- 🌱 I’m currently learning about Computer Vision, AI 3D Vision, Machine Learning for Graphs and Mathematical Data Science
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about AI related subjects.
