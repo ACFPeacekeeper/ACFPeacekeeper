@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about AI related subjects.
 - 📫 How to reach me: afonso.fernandes100@gmail.com
-- 😄 Pronouns: He/Him/?
+- 😄 Pronouns: He/Him/Idc
 - ⚡ Fun fact: the Hydra's stem cells, which give it vast regenerative capabilities, make it potentially immortal.
 
 <!--
