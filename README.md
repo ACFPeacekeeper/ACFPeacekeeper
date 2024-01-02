@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my research about Deep Multimodal Unsupervised and Generative Models that are Robust to Noisy and Adversarial Data.
-- 🌱 I’m currently learning about Computer Vision, AI 3D Vision, Machine Learning for Graphs and Mathematical Data Science
+- 🌱 I’m currently learning about 3d Modeling and Animation
 - 👯 I’m looking to collaborate on any AI related research.
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about AI related subjects.
