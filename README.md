@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my research about Deep Multimodal Unsupervised and Generative Models that are Robust to Noisy and Adversarial Data.
-- 🌱 I’m currently learning about 3d Modeling and Animation
+- 🌱 I’m currently learning about 3D Modeling and Animation for Game Development.
 - 👯 I’m looking to collaborate on any AI related research.
-- 🤔 I’m looking for help with nothing at the moment.
+- 🤔 I’m looking for help with Art and Design in Game Development.
 - 💬 Ask me about AI related subjects.
 - 📫 How to reach me: afonso.fernandes100@gmail.com
 - 😄 Pronouns: He/Him/Idc
