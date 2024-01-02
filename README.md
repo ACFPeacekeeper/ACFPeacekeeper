@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my research about using Multimodal Generative Models to Detect and Mitigate Adversarial Perceptual Attack against Reinforcement Learning Agents
+- 🔭 I’m currently working on my research about Deep Multimodal Unsupervised and Generative Models that are Robust to Noisy and Adversarial Data.
 - 🌱 I’m currently learning about Computer Vision, AI 3D Vision, Machine Learning for Graphs and Mathematical Data Science
 - 👯 I’m looking to collaborate on any AI related research.
 - 🤔 I’m looking for help with nothing at the moment.
