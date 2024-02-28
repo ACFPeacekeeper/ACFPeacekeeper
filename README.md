@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my research about Deep Reinforcement Learning for Graphs.
-- 🌱 I’m currently learning about 3D Modeling and Animation for Game Development.
+- 🌱 I’m currently learning about 3D Modeling and Pixel Art for Game Development.
 - 👯 I’m looking to collaborate on any AI related research.
 - 🤔 I’m looking for help with Art and Design in Game Development.
 - 💬 Ask me about AI related subjects.
