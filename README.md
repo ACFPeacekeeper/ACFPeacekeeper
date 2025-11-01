@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my research about Deep Reinforcement Learning and Operations Research for Combinatorial Optimization.
+- 🔭 I’m currently researching Deep Reinforcement Learning and Operations Research for Combinatorial Optimization.
 - 🌱 I’m currently learning about Pixel Art for Game Development and programming Graphical User Interfaces (GUI).
 - 👯 I’m looking to collaborate on any optimization related research or coding project.
 - 🤔 I’m looking for help with Art and Design.
