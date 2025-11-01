@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my research about Deep Reinforcement Learning for Combinatorial Optimization with graph data.
-- 🌱 I’m currently learning about 3D Modeling and Pixel Art for Game Development.
-- 👯 I’m looking to collaborate on any AI related research or Game Development project.
-- 🤔 I’m looking for help with Art and Design for Games.
-- 💬 Ask me about AI related subjects.
+- 🔭 I’m currently working on my research about Deep Reinforcement Learning and Operations Research for Combinatorial Optimization.
+- 🌱 I’m currently learning about Pixel Art for Game Development and programming Graphical User Interfaces (GUI).
+- 👯 I’m looking to collaborate on any optimization related research or coding project.
+- 🤔 I’m looking for help with Art and Design.
+- 💬 Ask me about subjects related to Computer Science and Engineering.
 - 📫 How to reach me: afonso.fernandes100@gmail.com
-- 😄 Pronouns: Idc
 - ⚡ Fun fact: the Hydra's stem cells, which give it vast regenerative capabilities, make it potentially immortal.
 
 ### My Github Statistics
