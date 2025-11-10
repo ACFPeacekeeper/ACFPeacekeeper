@@ -15,9 +15,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=cobalt&hide_border=false&hide=jupyter%20notebook&langs_count=20" alt="Top Languages by Code Size" width="280" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=jupyter%20notebook&langs_count=20&size_weight=0&count_weight=1" alt="Top Languages by Activity" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=flat&hide_border=false&hide=jupyter%20notebook&langs_count=20" alt="Top Languages" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" alt="Top Language" width=280 />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20&size_weight=0&count_weight=1" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
