@@ -12,7 +12,11 @@
 
 [![ACFPeacekeeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACFPeacekeeper&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&show_icons=true&theme=cobalt&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&show_icons=true&theme=cobalt&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=jupyter%20notebook&langs_count=20" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=jupyter%20notebook&langs_count=20&size_weight=0&count_weight=1" />
 
 <!--
 **ACFPeacekeeper/ACFPeacekeeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
