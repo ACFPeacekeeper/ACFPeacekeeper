@@ -8,13 +8,15 @@
 - 📫 How to reach me: afonso.fernandes100@gmail.com
 - ⚡ Fun fact: the Hydra's stem cells, which give it vast regenerative capabilities, make it potentially immortal.
 
+<div align="center">
+
 ### My GitHub Statistics
 
 [![ACFPeacekeeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACFPeacekeeper&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=jupyter%20notebook&langs_count=20&size_weight=0&count_weight=1" alt="Top Languages by Activity" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" alt="Top Languages by Code Size" width=280 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACFPeacekeeper&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" alt="Top Languages by Code Size" width="280" />
 </p>
-
-
