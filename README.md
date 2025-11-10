@@ -12,7 +12,7 @@
 
 ### My GitHub Statistics
 
-[![ACFPeacekeeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACFPeacekeeper&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ACFPeacekeeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACFPeacekeeper&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
